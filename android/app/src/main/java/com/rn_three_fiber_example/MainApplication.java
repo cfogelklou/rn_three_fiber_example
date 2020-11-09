@@ -1,6 +1,6 @@
 package com.rn_three_fiber_example;
 // com.myapp should be your package name
-import com.arcadiano.generated.BasePackageList;
+import com.rn_three_fiber_example.generated.BasePackageList;
 
 import android.app.Application;
 import android.content.Context;
